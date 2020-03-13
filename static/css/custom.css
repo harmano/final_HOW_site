@@ -9,7 +9,16 @@ nav {
     background-color: white;
     box-shadow: 2px 2px;
 }
+.img-pdf-pricing{
+  width: 200px;
+  height: auto;
+  margin-top: 40px;
+}
 
+.pdf-pff-img{
+  width:90%;
+  padding-top: 40px;
+}
 .text-pdf-price{
   font-size: 14px;
   margin: 50px;
